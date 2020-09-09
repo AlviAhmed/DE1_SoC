@@ -1,0 +1,28 @@
+#+LaTeX_CLASS: mycustom 
+
+#+TITLE: DE1 SoC
+#+AUTHOR: Alvi Ahmed
+
+*Status:* Completed 
+*Type:* COE838 Lab
+
+* Objective 
+
+The purpose of this lab is to create a hardware prototype in VHDL as well as control FPGA
+hardware through embedded C programs running on a Yocto Linux OS. 
+
+* Results 
+
+#+CAPTION: Screenshot of QSys system
+#+ATTR_LATEX: :placement [H] :width 0.6\linewidth 
+[[file:./images/qsys_screenshot.png]]
+
+
+#+CAPTION: Execution of the SoC System
+#+ATTR_LATEX: :placement [H] :width 0.6\linewidth 
+[[file:./images/terminal_output.png]]
+
+* References 
+	- https://www.ee.ryerson.ca/~courses/coe838/labs/lab3.pdf
+
+
