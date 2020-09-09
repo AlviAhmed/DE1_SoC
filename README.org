@@ -20,7 +20,5 @@ Screenshot of QSys system
 [[file:./images/terminal_output.png]]
 Execution of the SoC System
 
-* References 
-	- https://www.ee.ryerson.ca/~courses/coe838/labs/lab3.pdf
 
 
