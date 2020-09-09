@@ -14,10 +14,12 @@ hardware through embedded C programs running on a Yocto Linux OS.
 * Results 
 
 [[file:./images/qsys_screenshot.png]]
+
 Screenshot of QSys system
 
 
 [[file:./images/terminal_output.png]]
+
 Execution of the SoC System
 
 
