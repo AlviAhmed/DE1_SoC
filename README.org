@@ -1,5 +1,5 @@
 #+LaTeX_CLASS: mycustom 
-
+		
 #+TITLE: DE1 SoC
 #+AUTHOR: Alvi Ahmed
 
@@ -38,7 +38,7 @@
 	development board
 
 * Qsys 
-  In general the design flow of this lab is portayed in the image
+  In general the design flow of this lab is portrayed in the image
   below  
 
   [[file:images/overall_design_flow.png]]
