@@ -70,6 +70,14 @@
   Execution of the SoC System
 
 
+The intended message was also displayed on the board via 7 segment
+displays as seen in the image below
+
+  [[file:./images/result_on_board.jpg]]
+
+  The word that I had to display on the board was "beach"
+
+
 
 	
 
